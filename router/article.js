@@ -15,7 +15,7 @@ articleRoute.get("/page/:page", async (req, res) => {
 
 //get top 2 articles for displaying in personal site
 articleRoute.get("/topArticles", async (req, res) => {
-    const topArticles = await Article.find({ post: true }.sort({ date: -1 }).limit(2);
+    const topArticles = await Article.find({ post: true }.sort({ date: -1 }).limit(2));
     res.send(topArticles);
 })
 
