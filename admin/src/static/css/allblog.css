@@ -1,0 +1,12 @@
+.deleteButton, .postButton, .editButton{
+    margin-right:20px;
+    border-radius: 5px;
+}
+
+.editButton {
+    background-color: #1b9aaa;
+}
+
+.cateButton{
+    margin:0 20px;
+}
