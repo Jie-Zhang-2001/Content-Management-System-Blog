@@ -1,0 +1,23 @@
+.topArticles div{
+    margin-top:0.2rem;
+    border-radius: 0.3rem;
+    background-color: #fff;
+}
+.topArticles div img {
+    border-radius: 0.3rem;
+}
+.insp {
+    padding-top:0.2rem;
+    text-align: center;
+    font-size: 20px;
+    color:rgb(24,144,255);
+}
+.inspDesc {
+    padding:0 1rem 0;
+    padding-top:0;
+    text-align: center;
+}
+.inspDesc3 {
+    padding-bottom:0.3rem;
+}
+

@@ -1,0 +1,29 @@
+pre{
+    display: block;
+    background-color:#f3f3f3;
+     padding: .5rem !important;
+     overflow-y: auto;
+     font-weight: 300;
+     font-family: Menlo, monospace;
+     border-radius: .3rem;
+}
+pre{
+    background-color: #283646 !important;
+}
+pre >code{
+    border:0px !important;
+    background-color: #283646 !important;
+    color:#FFF;
+
+}
+
+
+code {
+    display: inline-block ;
+    padding: 7px;
+    margin: 0px 3px;
+    border-radius:3px;
+    font-size: 15px;
+    color:#4f4f4f; 
+    background-color:#f3f3f3; 
+}

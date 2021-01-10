@@ -1,0 +1,1 @@
+export const MONGO_DATABASE='https://zhang-blog-backend.herokuapp.com'
