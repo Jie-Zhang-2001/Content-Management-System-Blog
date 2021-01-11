@@ -12,14 +12,15 @@ A content management system for blogging with separate interfaces for displaying
 
 
 ## Display Interface
-<p align = "center">
-    <img src = "./BlogSiteREADMEVideos/Display.gif">
-</p>
 
 * Filter blogs by topics
 * Markdown-styled articles
 * Anchor points based on subtopics
   
+<p align = "center">
+    <img src = "./BlogSiteREADMEVideos/Display.gif">
+</p>
+
 
 ## Admin/Editor Interface
 
