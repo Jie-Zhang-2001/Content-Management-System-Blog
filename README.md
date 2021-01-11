@@ -1,6 +1,7 @@
 <p align = "center">
     <img src = "./BlogSiteREADMEVideos/BLOG6img.png">
 </p>
+
 # **Content Management System / Blog**
 <h2><a  href="http://www.blog-jz.com/">Check it out</a></h2>
 
