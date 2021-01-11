@@ -10,7 +10,7 @@ A content management system for blogging with separate interfaces for displaying
 
 ## Display Interface
 <p align = "center">
-    <img src = "./Display.gif">
+    <img src = "./BlogSiteREADMEVideos/Display.gif">
 </p>
 
 * Filter blogs by topics
@@ -28,7 +28,7 @@ A content management system for blogging with separate interfaces for displaying
 
 **User Authentication**
 <p align = "center">
-    <img src = "./Login.gif">
+    <img src = "./BlogSiteREADMEVideos/Login.gif">
 </p>
 <p>
 &nbsp;
@@ -40,7 +40,7 @@ A content management system for blogging with separate interfaces for displaying
 * Save the unfinished articles (will not be displayed on the Display page) for future edits
 * Post the articles (will be displayed on the Display page) 
 <p align = "center">
-    <img src = "./Edit.gif">
+    <img src = "./BlogSiteREADMEVideos/Edit.gif">
 </p>
 <p>
 &nbsp;
@@ -53,7 +53,7 @@ A content management system for blogging with separate interfaces for displaying
 * Post the chosen blog so it can be seen on the Display page
 * Edit the chosen blog
 <p align = "center">
-    <img src = "./Edit2.gif">
+    <img src = "./BlogSiteREADMEVideos/Edit2.gif">
 </p>
 <p>
 &nbsp;
