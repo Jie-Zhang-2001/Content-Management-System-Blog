@@ -17,7 +17,7 @@
     "date-and-time": "^0.13.1",
     "highlight.js": "^10.1.1",
     "markdown-navbar": "^1.4.2",
-    "marked": "^1.1.1",
+    "marked": "^4.0.10",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1"
